@@ -65,8 +65,3 @@ project-root
 ## Data Management
 
 - Data is stored in JSON format in the `data` directory for easy access and manipulation.
-
-## Contributing
-
-Contributions to this project are welcome. Please follow standard coding practices and document any major changes or improvements.
-
