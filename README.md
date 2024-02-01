@@ -70,6 +70,3 @@ project-root
 
 Contributions to this project are welcome. Please follow standard coding practices and document any major changes or improvements.
 
-## License
-
-[Specify the license or state that it's for educational purposes only]
